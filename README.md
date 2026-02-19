@@ -1,13 +1,40 @@
-# AI React Generator 🚀
+# AI Content Generator 🚀
 
-This is a React + Vite project that integrates the Google Gemini API to generate AI-based content dynamically.
-
-## 🔥 Features
-
-- ⚡ Built with React + Vite
-- 🤖 Google Gemini API Integration
-- 🔐 Environment Variable Support (.env)
-- 🎨 Clean and Simple UI
+This project is built using React and Vite and integrates the Google Gemini API to generate AI-based content dynamically.
 
 ---
 
+## 🔥 Features
+
+- ⚡ Fast development with Vite
+- ⚛️ Built using React
+- 🤖 Google Gemini API integration
+- 🔐 Secure API key using .env file
+- 🎨 Simple and clean UI
+
+---
+
+## 🛠️ Setup Instructions
+
+### 2️⃣ Go to project folder
+
+cd your-repository-name
+
+### 3️⃣ Install dependencies
+
+npm install
+
+### 5️⃣ Run the project
+
+npm run dev
+
+---
+---
+
+## 🧰 Tech Stack
+
+- React
+- Vite
+- Google Gemini API
+
+---
